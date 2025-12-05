@@ -7,6 +7,7 @@ Busco aprender e aplicar meus conhecimentos em projetos práticos, desenvolvendo
 - Node.js – backend iniciante
 - React.js – front-end iniciante
 - Python – explorando no estudo e projetos pessoais
+- Node-RED (Avançado)
 
 ## Sobre mim
 
