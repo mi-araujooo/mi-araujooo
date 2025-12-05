@@ -26,4 +26,4 @@ Busco aprender e aplicar meus conhecimentos em projetos práticos, desenvolvendo
 ## 📫 Contato
 
 - [LinkedIn](link-do-linkedin) *(em breve atualizado)*  
-- Email: seu-email@exemplo.com
+- Email: milnearaujo15@gmial.com
