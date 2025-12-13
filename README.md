@@ -3,7 +3,6 @@
 <br>
 
 <img src="https://img.shields.io/badge/Tecnologias%20e%20Habilidades-e63946?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-e63946?style=for-the-badge&labelColor=e63946" />
 
 ---
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mi-araujooo&layout=compact&bg_color=0d1117&title_color=e63946&text_color=f2f2f2" width="380" />
