@@ -1,8 +1,6 @@
 # Olá, eu sou a Milene Araujo 👋
-
 🎓 Estudante de Desenvolvimento Web  
 💻 Focada em Front-end, explorando também Back-end  
-🚀 Construindo projetos para praticar lógica, JavaScript e interfaces modernas
 
 ## 💻 Tecnologias e habilidades
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mi-araujooo&layout=compact&bg_color=0d1117&title_color=e63946&text_color=f2f2f2" width="380" />
