@@ -1,6 +1,5 @@
 # Olá, eu sou a Milene Araujo 👋
-🎓 Estudante de Desenvolvimento Web  
-💻 Focada em Front-end, explorando também Back-end  
+🎓 Estudante de Desenvolvimento Web focada em Front-end, explorando também Back-end  
 
 
 ## 💻 Tecnologias e habilidades
