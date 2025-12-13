@@ -5,7 +5,11 @@
 🚀 Construindo projetos para praticar lógica, JavaScript e interfaces modernas
 
 ## 💻 Tecnologias e habilidades
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mi-araujooo&layout=compact&bg_color=0d1117&title_color=e63946&text_color=f2f2f2" width="380" />
+<img 
+  align="right"
+  src="https://github-readme-stats.vercel.app/api?username=mi-araujooo&show_icons=true&title_color=b11226&text_color=7a1f1f&icon_color=b11226&bg_color=fff5f5&cache_seconds=2300"
+  alt="Status do GitHub"
+/>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="72" />
