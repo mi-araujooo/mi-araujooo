@@ -7,9 +7,9 @@
 ## 💻 Tecnologias e habilidades
 
 
-<table width="100%">>
+<table width="100%">
   <tr>
-    <td align="left">
+    <td align="left" valign="middle">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" />
