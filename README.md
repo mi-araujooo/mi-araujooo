@@ -1,5 +1,6 @@
 # Olá, eu sou a Milene Araujo 👋
 🎓 Estudante de Desenvolvimento Web focada em Front-end, explorando também Back-end
+
 ---
 <br>
 
