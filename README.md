@@ -25,10 +25,6 @@
 - Fundamentos de programação
 - Git e GitHub
 
----
-
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mi-araujooo/mi-araujooo/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mi-araujooo/mi-araujooo/output/pacman-contribution-graph.svg">
