@@ -2,11 +2,9 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mi-araujooo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
@@ -25,14 +23,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/mi-araujooo/mi-araujooo/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" height="150" src=""  />
-
-###
-
-<div align="left">
-</div>
 
 ###
