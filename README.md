@@ -6,10 +6,15 @@
 
 ## 💻 Tecnologias e habilidades
 <img 
-  align="right" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=mi-araujooo&locale=pt-br&layout=compact&theme=dark" 
-   width="400"
+  align="right"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=mi-araujooo&layout=compact
+  &bg_color=0d1117
+  &title_color=ff4d4d
+  &text_color=f2f2f2
+  &icon_color=ff4d4d"
+  width="380"
 />
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="72" />
