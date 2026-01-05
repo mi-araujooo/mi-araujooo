@@ -15,7 +15,7 @@
       <img width="10"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
     </td>
-    <td align="right" width="30%">
+    <td align="right" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=mi-araujooo&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true"/>
       <br/>
       <img src="https://nirzak-streak-stats.vercel.app/?user=mi-araujooo&theme=shadow_red&hide_border=false"/>
