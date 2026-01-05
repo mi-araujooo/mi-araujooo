@@ -5,9 +5,11 @@
 <img src="https://img.shields.io/badge/Tecnologias%20e%20Habilidades-e63946?style=for-the-badge" />
 <img 
   align="right"
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mi-araujooo&theme=shadow_red"
+  src="https://github-readme-stats2-kappa-sable.vercel.app/api?username=mi-araujooo&theme=shadow_red"
   width="360"
 />
+
+
 
 <div align="left">
   <br>
