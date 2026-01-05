@@ -6,7 +6,7 @@
 <img 
   align="right"
   src="https://github-readme-stats2-kappa-sable.vercel.app/api?username=mi-araujooo&theme=shadow_red"
-  width="360"
+  width="390"
 />
 
 
