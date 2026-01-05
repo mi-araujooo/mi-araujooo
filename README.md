@@ -2,8 +2,9 @@
 🎓 Estudante de Desenvolvimento Web focada em Front-end, explorando também Back-end
 
 ---
-<img src="https://img.shields.io/badge/Tecnologias%20e%20Habilidades-e63946?style=for-the-badge" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mi-araujooo&locale=pt-br&layout=compact&bg_color=0d1117&title_color=e63946&text_color=f2f2f2" width="360" />
+![](https://github-readme-stats.vercel.app/api?username=mi-araujooo&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mi-araujooo&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mi-araujooo&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <div align="left">
   <br>
